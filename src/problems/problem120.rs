@@ -1,8 +1,8 @@
 // Title: Triangle
 // Difficulty: Medium
-// Category: Medium
+// Category: Matrix
 // Link: https://leetcode.com/problems/triangle/
-// Last Executed: Mon, 2023-07-31 20:06:47 AEST
+// Last Executed: Mon, 2023-07-31 21:52:03 AEST
 
 struct Solution;
 
