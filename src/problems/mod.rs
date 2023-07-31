@@ -1,1 +1,1 @@
-pub mod problem746;
+pub mod problem120;

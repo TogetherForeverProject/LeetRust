@@ -1,6 +1,6 @@
 use std::env;
 mod problems;
-use crate::problems::problem746;
+use crate::problems::problem120;
 
 fn main() {
     let args: Vec<String> = env::args().collect();
@@ -21,7 +21,7 @@ fn main() {
 
     // Call the appropriate problem's solve() function based on the problem_number
     match problem_number {
-        746 => problem746::solve(),
+        120 => problem120::solve(),
         _ => println!("Unknown problem number."),
     }
 }
