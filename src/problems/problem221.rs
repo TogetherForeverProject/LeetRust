@@ -2,7 +2,7 @@
 // Difficulty: Medium
 // Category: Matrix
 // Link: https://leetcode.com/problems/maximal-square/
-// Last Executed: Mon, 2023-07-31 21:52:05 AEST
+// Last Executed: Wed, 2023-08-02 01:23:47 AEST
 
 struct Solution;
 

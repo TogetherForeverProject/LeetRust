@@ -2,7 +2,7 @@
 // Difficulty: Medium
 // Category: Matrix
 // Link: https://leetcode.com/problems/triangle/
-// Last Executed: Mon, 2023-07-31 21:52:03 AEST
+// Last Executed: Wed, 2023-08-02 01:23:44 AEST
 
 struct Solution;
 
