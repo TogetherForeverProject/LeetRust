@@ -3,7 +3,7 @@
 // Difficulty: Easy
 // Category: Fibonacci Style
 // Link: https://leetcode.com/problems/n-th-tribonacci-number/
-// Last Executed: Wed, 2023-08-02 01:23:43 AEST
+// Last Executed: Wed, 2023-08-02 11:28:00 AEST
 
 struct Solution;
 
