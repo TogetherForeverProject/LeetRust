@@ -152,7 +152,6 @@ function run_all_problems() {
     for problem_file in src/problems/problem*.rs; do
         # Extract the problem number from the file name (e.g., "src/problems/problem123.rs" -> "123")
         problem_number=$(basename "$problem_file" | grep -oP "(?<=problem)\d+(?=.rs)")
-
         # Check if it's the first iteration
         if [ "$first_file" = true ]; then
             first_file=false
@@ -163,6 +162,7 @@ function run_all_problems() {
         # Call the run_problem function for each problem file
         run_problem "$problem_number" "$test"
     done
+
 }
 
 
